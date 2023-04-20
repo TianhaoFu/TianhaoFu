@@ -1,6 +1,6 @@
-- 👋 Hi, I’m TianhaoFu@PKU. Ex-Intern@Baidu, Tencent, Alibaba, Sea, Msra.
+- 👋 Hi, I’m TianhaoFu@PKU. <!-- - Ex-Intern@Baidu, Tencent, Alibaba, Sea, Msra. -->
 - 👀 I’m interested in data-centric AI.
-- 🌱 I’m currently learning data-centric AI. Check my 2022's data-centric AI work: [Tiny3D: a data-centric AI based 3D object detection service production system](https://github.com/TinyDataML/Tiny3D). Other work I have been involved in: [FAFE-Net(MM'21)](https://dl.acm.org/doi/10.1145/3474085.3475277), [REDet(ACCV'22 oral)](https://openaccess.thecvf.com/content/ACCV2022/papers/Xu_Boosting_Dense_Long-Tailed_Object_Detection_from_Data-Centric_View_ACCV_2022_paper.pdf), MonoLT(ICASSP'23).
+- 🌱 I’m currently learning data-centric AI. Check my 2022's data-centric AI work: [Tiny3D: a data-centric AI based 3D object detection service production system](https://github.com/TinyDataML/Tiny3D).<!-- -  Other work I have been involved in: [FAFE-Net(MM'21)](https://dl.acm.org/doi/10.1145/3474085.3475277), [REDet(ACCV'22 oral)](https://openaccess.thecvf.com/content/ACCV2022/papers/Xu_Boosting_Dense_Long-Tailed_Object_Detection_from_Data-Centric_View_ACCV_2022_paper.pdf), MonoLT(ICASSP'23). -->
 - 💞️ I’m looking to collaborate on data-centric AI, including data privacy, data programming, data simulation, data compression, data duration, data centric ai system.
 - 📫 How to reach me tianhaofu1@stu.pku.edu.cn.
 
