@@ -1,4 +1,4 @@
-We continue to see exciting breakthroughs in AI. The CHATGPT in text, the PIKA in video. I'm sure every AI practitioner can feel the waves of our time building up. And I want to do my part in this era. There is a hidden voice in my heart telling me that I can also realize AGI in some small field. Now I have found my goal: **AGI in quantitative finance.**
+We continue to see exciting breakthroughs in AI. The CHATGPT in text, the PIKA in video, and the Gemini in multimodal. I'm sure every AI practitioner can feel the waves of our time building up. And I want to do my part in this era. There is a hidden voice in my heart telling me that I can also realize AGI in some small field. Now I have found my goal: **AGI in quantitative finance.**
 
 My goal is to **build an AGI that can replace a Quant Alpha team of about 20 people**, and I'm working towards that goal. Inputting historical stages of data, our AGI can output factors, factor combination strategies, trading strategies, and fulfill the functions brought by the whole Quant Alpha team.
 
